@@ -3,6 +3,8 @@ tree
 turkey
 tinsel 
 treacle
+lights
+decorations
 stuffing 
 stocking
 PJS
